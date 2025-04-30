@@ -62,6 +62,9 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 This project is licensed under the MIT License - see the `LICENSE` file for details. *(Suggestion: Add a file named `LICENSE` containing the standard MIT License text if you haven't already)*.
 
+## Preview
+![MIT 6.S191 Study Plan Screenshot](MIT%206_S191%20Study%20Plan.jpeg)
+
 ---
 
 *Happy Learning!* ✨
